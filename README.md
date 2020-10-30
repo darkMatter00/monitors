@@ -1,2 +1,2 @@
 # monitors
-Using monitors in C
+Using monitors in C++
